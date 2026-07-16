@@ -75,6 +75,16 @@ A driven **Business & Information Technology (BSBIT)** student balancing softwar
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadFahad019&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sheikhbrothers953@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<!-- YAHAN PASTE KAREIN -->
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammadFahad019&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Tracker" />
+</a>
