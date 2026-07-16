@@ -1,73 +1,80 @@
 <p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=250&section=header&text=Muhammad%20Fahad&fontSize=55&animation=twinkling&fontColor=ffffff" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muhammad+Fahad;BSBIT+Undergrad+%7C+Frontend+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-  <a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=BSBIT+%26+Law+Undergrad;Frontend+Developer;Tech+Asset+at+DecodeLabs;Data+Entry+%26+IT+Enthusiast" alt="Typing SVG" />
-
+  <a href="https://www.linkedin.com/in/muhammad-fahad-97a6a6347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Open%20To%20Work-blue?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Open to Work" />
-
+  <a href="mailto:M.fahadirfan123456789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <img src="https://img.shields.io/github/followers/MuhammadFahad019?label=Followers&style=for-the-badge&color=0077b5" alt="Followers" />
-
 </p>
-
-<br><br>About Me:<br><br>🔭 I’m currently working on: Developing responsive web applications and exploring corporate financial reporting.<br><br>👯 I’m looking to collaborate on: Service-based startup ventures, tech innovations, and frontend development projects.<br><br>🤝 I’m looking for help with: Advanced stock market dynamics and gold trading risk management strategies.<br><br>🌱 I’m currently learning: Deepening my programming skills in C++, Object-Oriented Programming (OOP), HTML, and CSS.<br><br>💬 Ask me about: The Decodes project (built with HTML/CSS), Cinema Booking System, financial analysis, or my research thesis in collaboration with Akhuwat.<br><br>⚡ Fun fact: I speak native Urdu and fluent Punjabi, love tracking the gold market, and I'm always ready to plan a trip to places like Hunza and Passu Cones!
-
-
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=MuhammadFahad019&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=MuhammadFahad019&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadFahad019&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 ---
 
+## 📌 About Me
 
+A driven **Business & Information Technology (BSBIT)** student balancing software development with financial analysis. Actively building sleek digital experiences while deep-diving into commodity trends and corporate research.
 
-## 🤝 Connect With Me
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Up To</h3>
+      <ul>
+        <li><b>Current Focus:</b> Designing responsive web applications & custom financial dashboards.</li>
+        <li><b>Learning:</b> Object-Oriented Programming (OOP) in C++ and advanced software architecture.</li>
+        <li><b>Interests:</b> Tracking stock market dynamics, gold trading risk management (XAU/USD), and traveling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Key Highlights</h3>
+      <ul>
+        <li><b>Industry Experience:</b> Tech Asset Intern at <b>DecodeLabs</b>.</li>
+        <li><b>Research:</b> Co-authored an impact assessment study on interest-free loans in collaboration with <b>Akhuwat</b>.</li>
+        <li><b>Core Projects:</b> Financial ROI Calculator, Cinema Booking System, and Decodes web application.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+---
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Development & Databases
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 📊 Business, Design & Deployment
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/muhammad-fahad-97a6a6347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>
-
- <a href="mailto:bahriastudent01@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
-  </a>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadFahad019&theme=dark&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadFahad019&theme=dark&hide_border=true&layout=compact" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MuhammadFahad019&theme=dark&hide_border=true" width="100%" />
+</p>
 
+---
 
-[![](https://komarev.com/ghpvc/?username=MuhammadFahad019&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadFahad019&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+</p>
